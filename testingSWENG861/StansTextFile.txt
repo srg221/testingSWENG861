@@ -3,3 +3,5 @@ Hi there Helio
 How's your Java?
 
 Helio: "My Java is fine I hope!"
+
+this line was added to my partner's text file
